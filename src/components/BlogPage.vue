@@ -1,7 +1,7 @@
 <template>
   <div id="blog">
     <h1 class="text-center text-xl mt-4">Thoughts and Posts</h1>
-    <div class="container px-8 pt-24 mx-auto lg:px-4">
+    <main class="container px-8 pt-24 mx-auto lg:px-4">
       <div class="flex flex-wrap">
         <article class="px-8 py-6 lg:w-1/3 md:w-full">
           <div class="p-6 rounded-md">
@@ -67,6 +67,6 @@
           </div>
         </article>
       </div>
-    </div>
+    </main >
   </div>
 </template>
